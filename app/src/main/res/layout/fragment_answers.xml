@@ -46,6 +46,34 @@
         android:layout_marginBottom="8dp"
         tools:text="Option D" />
 
+    <Button
+        android:id="@+id/button_option_e"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        tools:text="Option E" />
+
+    <Button
+        android:id="@+id/button_option_f"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        tools:text="Option F" />
+
+    <Button
+        android:id="@+id/button_option_g"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        tools:text="Option G" />
+
+    <Button
+        android:id="@+id/button_option_h"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        tools:text="Option H" />
+
     <TextView
         android:id="@+id/textView_result"
         android:layout_width="wrap_content"
