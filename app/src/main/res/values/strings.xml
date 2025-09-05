@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Planet Quiz</string>
+    <string name="question_1">What is the largest planet?</string>
+    <string name="question_2">Which planet has the most moons?</string>
+    <string name="question_3">Which planet spins on its side?</string>
+
+    <string name="correct_answer_jupiter">CORRECT! Jupiter is the largest planet and is 2.5 times the mass of all the other planets put together.</string>
+    <string name="correct_answer_saturn">CORRECT! Saturn is the planet with the most known moons, with 146 moons as of 2023.</string>
+    <string name="correct_answer_uranus">CORRECT! Uranus spins on its side, a feature that makes it unique among the planets.</string>
+
+    <string name="incorrect_answer">INCORRECT! Please try again.</string>
+    <string name="correct">CORRECT!</string>
+    <string name="incorrect">INCORRECT!</string>
+
+    <string name="jupiter">JUPITER</string>
+    <string name="saturn">SATURN</string>
+    <string name="uranus">URANUS</string>
+    <string name="earth">EARTH</string>
+    <string name="mars">MARS</string>
+    <string name="neptune">NEPTUNE</string>
+    <string name="mercury">MERCURY</string>
+    <string name="venus">VENUS</string>
+</resources>
